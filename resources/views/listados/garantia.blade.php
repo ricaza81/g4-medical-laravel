@@ -22,6 +22,9 @@
         padding-right: 20px;
         background-color: #ffffff !important;
        }
+       html, body {
+        display: block;
+        }
        </style>
 </head> 
 <body class="body">
